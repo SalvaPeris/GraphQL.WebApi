@@ -1,4 +1,4 @@
-﻿using Microsoft.AspNetCore.Mvc.ViewEngines;
+﻿using GraphQL.WebApi.Models;
 using Microsoft.EntityFrameworkCore;
 
 namespace GraphQL.WebApi.Data.Context

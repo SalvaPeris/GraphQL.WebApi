@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="https://github.com/SalvaPeris/GraphQL.WebApi/assets/79948536/3c750118-03ba-41aa-b5c2-4371915eb8bb" width="300" />
+  <img src="https://github.com/SalvaPeris/GraphQL.WebApi/assets/79948536/419afb93-ccc1-4167-b4bf-b0f843e53443" width="300" />
+</p>
+
+
 ### Repository for Movie Reviews with GraphQL
 
 #### Overview
@@ -17,4 +23,5 @@ Next, the repository interface is implemented. This implementation contains the 
 #### Example Usage in a GraphQL API
 1. Navigate to: 
   https://localhost:7007/ui/altair
-2. Play with GraphQL API!
+![image](https://github.com/SalvaPeris/GraphQL.WebApi/assets/79948536/2b7010d8-127a-4595-8a10-527d23996c0c)
+3. Play with GraphQL API!
